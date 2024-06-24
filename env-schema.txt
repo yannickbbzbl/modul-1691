@@ -1,0 +1,8 @@
+# .env Datei Schema
+
+Die `.env` Datei sollte folgende Struktur haben:
+
+```
+DATABASE_URL=postgresql://user:password@db:5432/mydatabase
+MY_SQL_ROOT_PASSWORD=rootpassword
+```
