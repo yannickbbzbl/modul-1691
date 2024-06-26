@@ -26,7 +26,7 @@ Um das Projekt zu starten auf das oben angezeigte Icon klicken. Das Projekt wird
 
 4. **Anwendung starten**
    - Nach dem Öffnen des Containers in VS Code kannst du die Anwendung starten.
-   - Öffne eine neue Terminalinstanz und führe folgenden Befehl aus:
+   - Öffne eine neue Bash Terminalinstanz und führe folgenden Befehl aus:
      ```bash
      python src/main.py
      ```
