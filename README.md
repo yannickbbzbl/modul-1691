@@ -20,7 +20,7 @@ Es handelt sich hier um ein Schulprojekt. Dieses Repository habe ich selber erst
 
 Die technische Dokumentation mit der Anleitung wie man das Projekt startet ist [hier zu finden](DevContainer_README.md). <br>
 
-Um das Projekt zu starten auf folgenden Butteon klicken:
+Um das Projekt zu starten auf folgenden Button klicken:
 
 <a href="https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/yannickbbzbl/modul-1691">
   <img 
