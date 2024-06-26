@@ -8,6 +8,15 @@ Dieses Projekt verwendet einen Dev-Container, um eine konsistente Entwicklungsum
 
 1. **VS Code und Dev Containers Erweiterung installieren**
    - Stelle sicher, dass du [Visual Studio Code](https://code.visualstudio.com/) und die Erweiterung "Dev Containers" installiert hast.
+  
+2. **Projekt starten**
+   <a href="https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/yannickbbzbl/modul-1691">
+  <img 
+    src="https://img.shields.io/badge/Open_in-DevContainer-blue?logo=visual-studio-code" 
+    alt="Open in DevContainer" 
+    height="40"
+  >
+</a>
 
 2. **Repository klonen**
    ```bash
