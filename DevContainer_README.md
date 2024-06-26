@@ -17,12 +17,6 @@ Dieses Projekt verwendet einen Dev-Container, um eine konsistente Entwicklungsum
     height="40"
   >
 </a>
-   
-2. **Repository klonen**
-   ```bash
-   git clone <repository-url>
-   cd my_docker_project
-   ```
 
 3. **Dev-Container öffnen**
    - Öffne das Projekt in VS Code.
