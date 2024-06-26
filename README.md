@@ -22,6 +22,13 @@ Die technische Dokumentation mit der Anleitung wie man das Projekt startet ist [
 
 Um das Projekt zu starten auf folgenden Butteon klicken:
 
+<a href="https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/yannickbbzbl/modul-1691">
+  <img 
+    src="https://img.shields.io/badge/Open_in-DevContainer-blue?logo=visual-studio-code" 
+    alt="Open in DevContainer" 
+    height="40"
+  >
+</a>
 
 
 ## Aufgaben für Schulnote:
