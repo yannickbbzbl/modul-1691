@@ -19,3 +19,16 @@ Es handelt sich hier um ein Schulprojekt. Dieses Repository habe ich selber erst
 # Technische Dokumentation
 
 Die technische Dokumentation mit der Anleitung wie man das Projekt startet ist [hier zu finden](DevContainer_README.md). <br>
+
+
+## Aufgaben für Schulnote:
+
+- [x] Dokumentation
+- [x] Automatisierte Installation
+- [x] nützliche Extensions
+- [x] Debugging-Unterstützung
+- [x] Datenbankintegration
+- [x] Produktionsbereite Container
+- [x] Sicheres Handling sensibler Daten
+- [x] One-Click Setup
+- [x] Pull Request
