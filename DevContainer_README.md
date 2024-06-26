@@ -18,7 +18,7 @@ Dieses Projekt verwendet einen Dev-Container, um eine konsistente Entwicklungsum
   >
 </a>
 
-Um das Projekt zu starten auf das oben angezeigte Icon klicken. Das Projekt wird sich von alleine mit den Äbhaägigkeiten installieren.
+Um das Projekt zu starten auf das oben angezeigte Icon klicken. Das Projekt wird sich von alleine mit den Abhängigkeiten installieren.
 
 3. **Dev-Container öffnen**
    - Öffne das Projekt in VS Code.
