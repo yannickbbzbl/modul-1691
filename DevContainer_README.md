@@ -50,6 +50,14 @@ Um das Projekt zu starten auf das oben angezeigte Icon klicken. Das Projekt wird
 
 - WordPress ist unter `http://localhost:3000` erreichbar.
 
+## PgAdmin
+
+- PgAdmin ist unter `localhost:8080` erreichbar.
+
+## Anwendung
+
+- Die Anwendung ist unter `localhost:8000` erreichbar.
+
 ## Sicheres Handling sensibler Daten
 
 - Verwende die `.env`-Datei, um sensible Daten zu speichern. Diese Datei wird nicht ins Repository eingecheckt.
